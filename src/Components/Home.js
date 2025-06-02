@@ -3,7 +3,7 @@ import Lottie from  "lottie-react";
 import SpaceBoy from "../LottieFiles/SpaceBoy.json";
 import Typed from "./Typed.js";
 import Tilt from 'react-parallax-tilt';
-import Avatar from '../images/wr.png';
+import Avatar from '../images/mypic.png';
 import {CiCoffeeCup} from "react-icons/ci";
 
 const Home = () => {
@@ -33,9 +33,9 @@ const Home = () => {
               Enhanced user experience by optimizing application performance and implementing efficient front-end and back-end solutions.
 
             be proud of.<br /><br />
-            I am fluent in <b>React.js,Node.js,MongoDB</b> and know a bit of <b>Python</b> and am working on a few 
+            I am fluent in <b>React.js,Node.js,MongoDB</b> I am working on a few 
             projects in the <b>FULL</b> stack.<br />
-            I plan to learn <b>Next.js</b>, <b>Three.js</b> and<b> Typescript</b> in the near future. <br /><br />
+            I plan to learn <b>AI</b>,<b>Next.js</b>, <b>Three.js</b> and<b> Typescript</b> in the near future. <br /><br />
            
           </p>
         </div>
