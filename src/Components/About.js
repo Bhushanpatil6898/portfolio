@@ -12,10 +12,10 @@ const About = () => {
           <h1 className='AboutTextHeading' >Get to <b>know</b> me!</h1>
           <p>
             Hi, my name is <b>Bhushan Patil</b> and I am from Jalgon, India.
-            I'm a <b>Fullstack  developer</b> and have completed my <b>BSc in Computer Science</b>, a <b>Full Stack course</b> at Giri's Tech Hub Pune, and am currently employed at <b>Globalion Technology Solution LLP, Pune</b>. <br/><br/>
+            I'm a <b>Full stack  developer</b> and have completed my <b>BSc </b>, then completed <b>Full Stack course</b> at Giri's Tech Hub Pune, and i am currently employed at <b>Globalion Technology Solution LLP, Pune</b>. <br/><br/>
             <br/><br/>
 
-            <b>Software Developer</b> with over 1 year of experience specializing in front-end and back-end development. Skilled in HTML, CSS, JavaScript, React, Node.js, and MongoDB for efficient, scalable data management. Proven ability to collaborate with design and product teams to integrate new features seamlessly,
+            <b>Software Developer</b> with over 1.5 year of experience specializing in front-end and back-end development. Skilled in HTML, CSS, JavaScript, React, Node.js, and MongoDB for efficient, scalable data management. Proven ability to collaborate with design and product teams to integrate new features seamlessly,
              optimize application performance, and enhance user experience.
            
           </p>
