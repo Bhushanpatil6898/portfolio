@@ -6,13 +6,31 @@ import {CgFileDocument} from "react-icons/cg";
 const  ProjectBox = ({projectPhoto, projectName}) => {
   const desc = {
     
-    Farmdata365Desc:"A newsletter signup site made using Mailchimp API where the signups can be monitored from the MailChimp account. This project was made to understand API integration, environment variables and vercel deployment.",
-    Farmdata365Github:"https://github.com/Bhushan6898/FarmData365_server",
+    Farmdata365Desc:"Developing FarmData365, a web-based platform designed to help farmers store and manage their daily farming data. The application allows farmers to track various farming activities, making it easier to maintain records and improve productivity.",
+    Farmdata365Github:"",
     Farmdata365Website:"https://farmdata365.netlify.app/",
     
-    Mahalaxmi_hardwareDesc:"An innovative pet management web app enabling pet parents to create unique pet IDs, securely store and share vaccination records, and generate QR codes for pet profiles, enhancing safety.",
-    Mahalaxmi_hardwareGithub:"https://github.com/Bhushan6898/hardwearshop",
+    Mahalaxmi_hardwareDesc:"Developed a custom billing and inventory management system for my hardware shop,Mahalaxmi Hardware, to improve operations and enhance customer experience. Designed and implemented an easy-to-use Create Bill feature to streamline the billing process",
+    Mahalaxmi_hardwareGithub:"",
     Mahalaxmi_hardwareWebsite:"https://mahalaxmi-hardware.netlify.app/",
+
+    SociliteDesc:"Socialite is designed to provide a seamless, interactive experience. Whether you’re looking to expand your professional network, explore creative projects, or simply engage with friends and family, Socialite offers a space for everyone.",
+    SociliteGithub:"",
+    SociliteWebsite:"https://socilite.netlify.app/",
+
+    FresherZoneDesc:"FresherZone is an online job portal dedicated to helping fresh graduates and early-career professionals find their ideal job. We provide a wide range of job listings, career resources, and expert advice to help you navigate your career journey.",
+    FresherZoneGithub:"",
+    FresherZoneWebsite:"",
+
+   GatewayDesc:"Gateway is a centralized event management platform that enables multiple departments to independently schedule, book, and manage their events while ensuring seamless coordination and efficient resource allocation.",
+   GatewayGithub:"",
+   Gatewaybsite:"",
+
+   PotliDesc:"Potli is a cloud storage platform that allows users to upload, store, and share files with ease. Whether you need to collaborate with colleagues, store important documents, or create folders to organize your content, Potli makes file management simple and accessible.",
+   PotliGithub:"",
+   PotliWebsite:"",
+
+    
   }
 
   let show ='';
