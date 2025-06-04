@@ -10,9 +10,15 @@ import MoveToTop from "./Components/MoveToTop";
 import Lottie from  "lottie-react";
 import nightsky from "./LottieFiles/night-sky.json";
 import HashLoader from "react-spinners/HashLoader";
+import ContactUs from "./Components/ContactUs";
+import PageNotFound from "./Components/PageNotFound";
+import Chatbox from "./Components/chatbox";
+import SmartTalkIcon from "./Components/SmartTalkIcon";
+
 
 
 function App() {
+ 
   const[Loading,SetLoading]=useState(true);
 
   useEffect(()=>{
@@ -22,7 +28,7 @@ function App() {
     SetLoading(false)}
     ,1900)
   },[])  
-  
+
   return (
     <>
       {Loading ? (
@@ -44,12 +50,16 @@ function App() {
 
       <Nav/>
       <MoveToTop/>
-
+<SmartTalkIcon/>
       <Routes>
+        
         <Route path="/" element={<Home/>} />
         <Route path="/About" element={<About/>}/>
         <Route path="/Project" element={<Project/>}/>
         <Route path="/Resume" element={<Resume/>}/>
+        <Route path="/Contact" element={<ContactUs/>}/>
+          <Route path="/Chatbox" element={<Chatbox/>}/>
+        <Route path="*" element={<PageNotFound/>}/>
       </Routes>
       
       <Footer/>

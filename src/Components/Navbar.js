@@ -60,6 +60,7 @@ const Nav = () => {
             <li onClick={hideMenu}><Link to="/Project"><BsCodeSlash/> Project</Link></li>
             <li onClick={hideMenu}><Link to="/Resume"><CgFileDocument/> Resume</Link></li>
             {/* <li onClick={hideMenu}><Link to="/Contact"><BsChevronBarContract />Contact</Link></li> */}
+            
         </ul>
         
     </nav>

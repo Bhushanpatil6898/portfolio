@@ -12,7 +12,7 @@ const Footer = () => {
         <a href="/" target='_blank'><FaGithub/></a>
         <a href="/" target='_blank'><FaLinkedin/></a>
         <a href='/' target='_blank'><GrMail/></a>
-        <a href="/" target="_blank"><SiLeetcode/></a>
+      
       </div>
     </footer>
   )
