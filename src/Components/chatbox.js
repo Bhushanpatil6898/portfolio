@@ -94,11 +94,11 @@ const Chatbox = () => {
                 method: "POST",
                 headers: {
                     Authorization:
-                        "Bearer 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",
+                        "Bearer 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",
                     "Content-Type": "application/json",
                 },
                 body: JSON.stringify({
-                    model: "deepseek/deepseek-r1:free",
+                    model: "deepseek/deepseek-r1-0528:free",
                     messages: [{ role: "user", content: input }],
                 }),
             });
