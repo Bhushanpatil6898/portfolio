@@ -15,7 +15,7 @@ const About = () => {
             I'm a <b>Full stack  developer</b> and have completed my <b>BSc </b>, then completed <b>Full Stack course</b> at Giri's Tech Hub Pune, and i am currently employed at <b>Globalion Technology Solution LLP, Pune</b>. <br/><br/>
             <br/><br/>
 
-            <b>Software Developer</b> with over 1.5 year of experience specializing in front-end and back-end development. Skilled in HTML, CSS, JavaScript, React, Node.js, and MongoDB for efficient, scalable data management. Proven ability to collaborate with design and product teams to integrate new features seamlessly,
+            <b>Software Developer</b> with over 2 year of experience specializing in front-end and back-end development. Skilled in HTML, CSS, JavaScript, React, Node.js, and MongoDB for efficient, scalable data management. Proven ability to collaborate with design and product teams to integrate new features seamlessly,
              optimize application performance, and enhance user experience.
            
           </p>

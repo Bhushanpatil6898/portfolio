@@ -94,7 +94,7 @@ const Chatbox = () => {
                 method: "POST",
                 headers: {
                     Authorization:
-                        "Bearer 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",
+                        "Bearer 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",
                     "Content-Type": "application/json",
                 },
                 body: JSON.stringify({

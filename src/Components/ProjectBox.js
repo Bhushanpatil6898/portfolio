@@ -6,6 +6,10 @@ import {CgFileDocument} from "react-icons/cg";
 const  ProjectBox = ({projectPhoto, projectName}) => {
   const desc = {
     
+   GlobeWeatherDesc:"GlobeWeather App is a simple weather forecast app built using React.It shows current weather and a 5-day forecast using the OpenWeatherMap API.",
+   GlobeWeatherGithub:"",
+   GlobeWeatherWebsite:"https://globeweatherapplication.netlify.app/",
+
     Farmdata365Desc:"Developing FarmData365, a web-based platform designed to help farmers store and manage their daily farming data. The application allows farmers to track various farming activities, making it easier to maintain records and improve productivity.",
     Farmdata365Github:"",
     Farmdata365Website:"https://farmdata365.netlify.app/",

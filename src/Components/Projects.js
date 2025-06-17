@@ -8,12 +8,14 @@ import Socilite from '../images/socilite.png';
 import Fresherzone from '../images/fresherzone.png';
 import Potli from '../images/potli.png';
 import Gateway  from '../images/gateway.png';
+import GlobeWeather  from '../images/weatherapp.png';
 
 const Projects = () => {
   return (
     <div>
       <h1 className='projectHeading'><b>My </b> <b>Projects</b></h1>
       <div className='project'>
+        <ProjectBox projectPhoto={GlobeWeather} projectName="GlobeWeather" />
         <ProjectBox projectPhoto={WigglesImage} projectName="Mahalaxmi_hardware" />
         <ProjectBox projectPhoto={NewsletterImage} projectName="Farmdata365" />
         <ProjectBox projectPhoto={Socilite} projectName="Socilite" />
